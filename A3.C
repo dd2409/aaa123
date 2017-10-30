@@ -5,7 +5,7 @@
 void main()
 {
 int a[5],i,sum=0;
-clrscr();
+
 for(i=0;i<=4;i++)
 	{
 	printf("\nenter the %dth element\n",i+1);
