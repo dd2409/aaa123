@@ -5,7 +5,7 @@
 void main()
 {
 int i,j,a[5],b[5],c[5];
-clrscr();
+
 printf("\nenter the elements of first array\n");
 for(i=0;i<=4;i++)
 	{
