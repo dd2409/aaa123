@@ -3,7 +3,7 @@
 void main()
 {
 int a[5],i;
-clrscr();
+
 printf("\nEnter the array elements\n");
 for(i=0;i<=4;i++)
 	{
