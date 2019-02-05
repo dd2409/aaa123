@@ -15,3 +15,4 @@ printf("\narray is\n");
 	printf("\t%d",a[i]);
 getch();
 }
+
